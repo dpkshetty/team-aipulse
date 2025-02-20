@@ -1,3 +1,3 @@
-TEAM: AIPulse
-Use Case: EASY BANKING through Agentic AI
-Event: APAC Agentic AI Hackathon
+TEAM: AIPulse<br>
+Use Case: EASY BANKING through Agentic AI>br>
+Event: APAC Agentic AI Hackathon<br>
