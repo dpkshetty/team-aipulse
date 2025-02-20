@@ -8,9 +8,9 @@ from kyc_automation.tools.custom_tool import MySQLQueryTool
 # https://docs.crewai.com/concepts/crews#example-crew-class-with-decorators
 
 llm = LLM(
-    model="watsonx/meta-llama/llama-3-1-70b-instruct",
-    base_url="https://us-south.ml.cloud.ibm.com",
-    api_key="DT1zUwE7qKaFzx6KLcLH-DtZQAdEVhIWd48mpJEYcrjt"
+    model="<your-model-name>",
+    base_url="<model-base-url>",
+    api_key="<api-key>"
 )
 
 @CrewBase
